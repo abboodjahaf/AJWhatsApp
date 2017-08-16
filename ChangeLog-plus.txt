@@ -1,5 +1,5 @@
-{"version_code":451192,"content":"
-<p>5.60</p>
+{"version_code":451200,"content":"
+<p>5.70</p>
 
 </li>التحديث لنسخة الماركت 2.17.223<li>
 </li>إمكانية تغيير خط البرنامج تم اضافة 30 خط (من الاضافات والخصائص - تغيير خط البرنامج 11)<li>
@@ -32,5 +32,5 @@
 <li>Added Option to Change Color of Unread Message in Chat Screen (Mod 1.2.59 to Mod 1.2.61)</li>
 <li>Fixed WAMOD Entry Style</li>
 <li>Other Fixes</li>
-","url":"https://abboodjahaf.blogspot.com/search/label/AJWhatsApp"
+","url":"https://abboodjahaf.blogspot.com/2017/08/ajwhatsapp-v570.html"
 }
