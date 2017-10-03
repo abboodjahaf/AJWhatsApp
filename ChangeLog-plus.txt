@@ -45,5 +45,5 @@
 <li> Fixed WhatsApp.Log</li>
 <li> Other Fixes</li>
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"https://abboodjahaf.blogspot.com/search/label/AJWhatsApp"
 }
