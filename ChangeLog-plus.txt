@@ -1,5 +1,5 @@
-{"version_code":451195,"content":"
-<p>تحديث 5.80</p>
+{"version_code":451196,"content":"
+<p>تحديث 5.90</p>
 
 <li>التحديث لنسخة الماركت 2.17.351</li>
 <li>(حصريا) يمكنك الآن إرسال رسالة جماعية للمجموعات</li>
@@ -39,5 +39,5 @@
 <li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"https://abboodjahaf.blogspot.com/2017/10/ajwhatsapp-v580.html"
+","url":"http://abboodjahaf.blogspot.com/2017/11/ajwhatsapp-v590.html"
 }
