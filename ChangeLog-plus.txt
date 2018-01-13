@@ -39,5 +39,5 @@
 <li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"http://abboodjahaf.blogspot.com/2017/11/ajwhatsapp-v590.html"
+","url":"http://www.mediafire.com/file/xe9zmehe99tkkn1/AJWA+v6.00-2.17.427+%40AbbOod_Jahaf.apk"
 }
