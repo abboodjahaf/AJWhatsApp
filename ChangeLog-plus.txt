@@ -41,5 +41,5 @@
 <li> Fixed Crash when open Custom Privacy Chats</li>
 <li> Other Fixes</li>
 
-","url":"http://www.mediafire.com/file/xe9zmehe99tkkn1/AJWA+v6.00-2.17.427+%40AbbOod_Jahaf.apk"
+","url":"https://abboodjahaf.blogspot.com/2018/01/ajwhatsapp-v600.html"
 }
