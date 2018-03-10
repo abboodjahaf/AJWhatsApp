@@ -1,4 +1,4 @@
-{"version_code":451199,"content":"
+{"version_code":451201,"content":"
 <p>تحديث 6.25</p>
 
 <li>التحديث لنسخة الماركت 2.18.9</li>
@@ -43,5 +43,5 @@
 <li> Fixed Crash On Some Devices</li>
 <li> Many More Fixes</li>
 
-","url":"https://abboodjahaf.blogspot.com/search/label/AJWhatsApp"
+","url":"https://abboodjahaf.blogspot.com/2018/03/ajwhatsapp-v625.html"
 }
