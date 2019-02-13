@@ -1,4 +1,4 @@
-{"version_code":451209,"content":"
+{"version_code":451210,"content":"
 <p>تحديث 6.70</p>
 
 <li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
@@ -25,5 +25,5 @@
 <li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"https://abboodjahaf.blogspot.com/2019/02/ajwhatsapp-v670.html"
 }
