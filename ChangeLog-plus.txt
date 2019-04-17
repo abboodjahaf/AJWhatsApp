@@ -1,6 +1,7 @@
-{"version_code":451210,"content":"
-<p>تحديث 6.70</p>
+{"version_code":451212,"content":"
+<p>تحديث 6.85</p>
 
+<li>زيادة مدة صلاحية الواتس</li>
 <li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
 <li>إضافة خطوط جديدة</li>
 <li>إضافة ايقونات جديدة</li>
@@ -25,5 +26,5 @@
 <li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
 <li> Many More Fixes</li>
 
-","url":"https://abboodjahaf.blogspot.com/2019/02/ajwhatsapp-v670.html"
+","url":"https://abboodjahaf.blogspot.com/2019/04/ajwhatsapp-v685.html?m=1"
 }
