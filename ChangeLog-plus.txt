@@ -1,20 +1,39 @@
-{"version_code":451216,"content":"
+{"version_code":451218,"content":"
 <p>تحديث 7.20</p>
 
-<li>تمديد صلاحية النسخة لمدة 6 أشهر</li>
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
-<li>تحديث الحالات لتصبح 1500 حالة</li>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li>اصلاح لون الدفعات في شاشة المحادثة</li>
-<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>اضافة المزيد من الحمايه ضد الحظر</li>
+<li>تحسين اعدادات الخصوصية</li>
+<li>إمكانية حذف اي رسالة قمت بارسالها من عند الطرف الآخر</li>
+<li>إضافة خيار إظهار الصحين الزرقاء فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)</li>
+<li>زيادة حجم الحاله الى اكثر من 10 دقائق بدلا من 30 ثانيه</li>
+<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+<li>اضافة مراسلة لرقم غير مسجل</li>
+<li>اضافة سرفر ثيمات جديده وتعمل مع جميع الاجهزه</li>
+<li>اضافة خيار مصادقة البصمه(الخصوصية)</li>
+<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
+<li>اضافة خيار لاخفاء اسم الشخص عند المحادثه(اضافات عاصم-محتوى شاشة المحادثات)</li>
+<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
+<li>امكانية زيادة عدد اعضاء الرسائل الجماعية الى اكثر من 1024</li>
+<li>اضافة ايقونات جديده(اضافات عاصم-الوان التطبيق والايقونات-ايقونة البرنامج)</li>
+<li>اضافة النسخ الاحتياطي والاستعاده وتعمل مع جميع الاجهزه (اضافات عاصم-النسخ الاحتياطي)</li>
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install AJWhatsApp v7.00)</li>
-<li> Extend expiry for this Base</li>
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-<li> Fixed Payments Color in Attach Menu</li>
-<li> Fixed Crash when open chat in some devices</li>
-<li> Other Fixes</li>
 
-","url":"https://abboodjahaf.blogspot.com/2019/08/ajwhatsapp-v710.html"
+
+<li> Add more protection Anti ban</li>
+<li> Improved Privacy Settings</li>
+<li> ability to delete messages (Select any message - open options and click delete for everyone)</li>
+<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
+<li> Increase Status Limit to 10 Minutes</li>
+<li> Added option to Apply Old UI 2014</li>
+<li> Added option to Hide Conversation Names</li>
+<li> Added New Fonts</li>
+<li> Added Bacup and Restore (AJ Settings-Backup and Restore)</li>
+<li> Now you can send message to unsaved Number</li>
+<li> Increase the number of members of the broadcasts to 1024</li>
+<li> Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li> Added New Icons(AJ Settings-Colors and Icon-Icon)</li>
+
+","url":"https://abboodjahaf.blogspot.com/2019/09/ajwhatsapp-v720.html"
+
 }
