@@ -1,39 +1,42 @@
-{"version_code":451218,"content":"
-<p>تحديث 7.20</p>
+{"version_code":451220,"content":"
+<p>تحديث 7.30</p>
 
-<li>اضافة المزيد من الحمايه ضد الحظر</li>
-<li>تحسين اعدادات الخصوصية</li>
-<li>إمكانية حذف اي رسالة قمت بارسالها من عند الطرف الآخر</li>
-<li>إضافة خيار إظهار الصحين الزرقاء فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)</li>
-<li>زيادة حجم الحاله الى اكثر من 10 دقائق بدلا من 30 ثانيه</li>
-<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
-<li>اضافة مراسلة لرقم غير مسجل</li>
-<li>اضافة سرفر ثيمات جديده وتعمل مع جميع الاجهزه</li>
-<li>اضافة خيار مصادقة البصمه(الخصوصية)</li>
-<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
-<li>اضافة خيار لاخفاء اسم الشخص عند المحادثه(اضافات عاصم-محتوى شاشة المحادثات)</li>
-<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
-<li>امكانية زيادة عدد اعضاء الرسائل الجماعية الى اكثر من 1024</li>
-<li>اضافة ايقونات جديده(اضافات عاصم-الوان التطبيق والايقونات-ايقونة البرنامج)</li>
-<li>اضافة النسخ الاحتياطي والاستعاده وتعمل مع جميع الاجهزه (اضافات عاصم-النسخ الاحتياطي)</li>
-<li>اصلاحات اخرى</li>
+<li>تحديث قاعدة 2.19.291</li>
+<li>اضافه ستايل جديد لاضافات عبود جحاف</li>
+<li>اضافه ستايل جديد للنص التلقائي</li>
+<li>اضافه اضافة شكل الستوري مثل الانستغرام</li>
+<li>اضافه زيادة مدة حجم الحالة الى اكثر من 10 دقائق</li>
+<li>اضافه زيادة اعادة التوجية الى مالانهاية</li>
+<li>جديد تستطيع الان تثبيت اكثر من 1000 محادثة</li>
+<li>إصلاح مشكلة تأخر وصول الرسائل في بعض الاجهزة</li>
+<li>إصلاح مشكلة الانهيارات في بعض الاجهزة</li>
+<li>[أضيفت] Instagram-like Store يمكنك تمكينه من الشاشة الرئيسية >> Header</li>
+<li>[أضيفت] تعطيل النقر على "WhatsApp"</li>
+<li>[أضيفت] إخفاء تحديث الحالة الصامتة</li>
+<li>[أضيف] إخفاء تحديث حالة المشاهدة</li>
+<li>[أضيفت] إخفاء تحديث الحالة الأخيرة</li>
+<li>[ثابت] تحطم على المستخدمين كيت كات</li>
+<li>مزيد  إصلاحات وتحسينات أخرى</li>
 
 
 
-<li> Add more protection Anti ban</li>
-<li> Improved Privacy Settings</li>
-<li> ability to delete messages (Select any message - open options and click delete for everyone)</li>
-<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
-<li> Increase Status Limit to 10 Minutes</li>
-<li> Added option to Apply Old UI 2014</li>
-<li> Added option to Hide Conversation Names</li>
-<li> Added New Fonts</li>
-<li> Added Bacup and Restore (AJ Settings-Backup and Restore)</li>
-<li> Now you can send message to unsaved Number</li>
-<li> Increase the number of members of the broadcasts to 1024</li>
-<li> Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added New Icons(AJ Settings-Colors and Icon-Icon)</li>
+<li>[Base] Update 2.19.291</li>
+<li>[Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
+<li>[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update</li>
+<li>[Added] Hide Viewed Status update</li>
+<li>[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users</li>
+<li>New:Style for AJ Settings</li>
+<li>Added: New Style for AJ Settings</li>
+<li>Added: New Style for Auto Text</li>
+<li>Added: Instagram-lilke Store you can enable it from Home Screen >> Header</li>
+<li>Fixed: Problem with late Messages</li>
+<li>Fixed: Crash on Kitkat's 4.4 users</li>
+<li>Fixed: Don't have enough disk Space</li>
+<li>Enabled: Increase Status Limit to 10 Minutes</li>
+<li>Enabled: Increase Forward to Unlimited</li>
+<li>Fixed: Pinned chats now is 1000</li>
+<li>Fixed: More bug fixes and improvements!</li>
 
-","url":"https://abboodjahaf.blogspot.com/2019/09/ajwhatsapp-v720.html"
+","url":"https://abboodjahaf.blogspot.com/2019/12/ajwhatsapp-v730.html"
 
 }
